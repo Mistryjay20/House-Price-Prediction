@@ -54,8 +54,8 @@ Synthetic dataset: `house_price_dataset.csv`
 
 - MSE (Mean Squared Error)
 
-
+---
 
 ## Developer
----
+
 JayKumar Pravinbhai Mistry
